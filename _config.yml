@@ -1,0 +1,28 @@
+name: Leap Year
+favicon: null
+layout_spectrum: 0.43437990359961987
+typography_spectrum: 0.4333140410017222
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.882053003879264
+  lightness: 0.8124372011516243
+  saturation: 0.6643074543680996
+  rhythmicContrast: 0.10176141350530088
+purpose: []
