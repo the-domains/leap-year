@@ -1,28 +1,40 @@
-name: Leap Year
-favicon: null
-layout_spectrum: 0.10291
-typography_spectrum: 0.29551
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#848484'
-    - '#303030'
-    - '#9d9d9d'
-    - '#c7c7c7'
-  brandStrength: 0.882053003879264
-  lightness: 0.8124372011516243
-  saturation: 0.6643074543680996
-  rhythmicContrast: 0.10176141350530088
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6643074543680996
+  brandStrength: 0.781362
+  lightness: 0.8124372011516243
+  brandColors:
+    - '#FFFFFF'
+    - '#FCD8BE'
+    - '#6E655C'
+    - '#BDBBD0'
+    - '#B4876F'
+  rhythmicContrast: 0.1017614135053009
+typography_spectrum: 0.7096774
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: Leap Year
