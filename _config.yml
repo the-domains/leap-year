@@ -1,7 +1,4 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+name: Leap Year
 opengraph:
   image: null
   type: null
@@ -12,29 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.6643074543680996
-  brandStrength: 0.781362
+  brandStrength: 1
   lightness: 0.8124372011516243
   brandColors:
     - '#FFFFFF'
-    - '#FCD8BE'
-    - '#6E655C'
-    - '#BDBBD0'
-    - '#B4876F'
+    - '#C79275'
+    - '#77413A'
+    - '#2F8832'
+    - '#65C65C'
   rhythmicContrast: 0.1017614135053009
 typography_spectrum: 0.7096774
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
-name: Leap Year
+layout_spectrum: 1
